@@ -54,7 +54,7 @@ First forget inspiration. Habit is more dependable. Habit will sustain you wheth
 
 ## Top Respositorys
   <p align="left">
-     <a href="https://github.com/amir1411/debounce-throttle-javascript"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=officialgyanendra&repo=debounce&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="debounce-throttle-javascript"></a>
+     <a href="https://github.com/amir1411/debounce-throttle-javascript"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=debounce-throttle-javascript&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="debounce-throttle-javascript"></a>
     <a href="https://github.com/amir1411/webpack-react-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=webpack-react-project&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="webpack-react-project"></a>
    <a href="https://github.com/amir1411/react-calendar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=react-calendar&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="react-calendar"></a>
   </p>
