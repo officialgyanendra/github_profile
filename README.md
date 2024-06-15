@@ -2,17 +2,17 @@
 
 <hr/>
 
-<p align="left">A passionate Full Stack Developer 🚀 based in India. I'm a dedicated professional with a Bachelor of Technology degree and a knack for crafting innovative solutions in the digital realm.</p>
+<p align="left">A passionate Frontend Developer 🚀 based in India. I'm a dedicated professional with a Bachelor of Technology degree and a knack for crafting innovative solutions in the digital realm.</p>
 
 <p align="left">💻 In the world of programming, I thrive on the challenges and opportunities that come with being a Full Stack Developer. From frontend design to backend logic, I love diving into every aspect of development to create seamless, user-friendly experiences.</p>
 
 <p align="left">🌟 Beyond the screen, I find joy in the simple pleasures of life. Whether it's savoring delicious cuisine, finding serenity through yoga, or immersing myself in the captivating world of anime, I believe in embracing a well-rounded lifestyle.</p>
 
 <br/>
-<a href="https://www.linkedin.com/in/amir1411/">
+<a href="https://www.linkedin.com/in/gyanendrakumar92/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
 </a>
-<a href="https://leetcode.com/user3321H/">
+<a href="https://leetcode.com/u/user4102Vr/">
   <img align="left" alt="leetcode" width="22px" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" />
 </a>
 <br/>
@@ -33,7 +33,7 @@ First forget inspiration. Habit is more dependable. Habit will sustain you wheth
 **Languages and Tools:**  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,redux,express,nodejs,vscode,github,mongodb,mysql,css,html,tailwind,bootstrap,angular,vue,graphql,jest,npm,yarn,docker,kubernetes,rabbitmq,aws,ubuntu,linux,vite,webpack,babel,git,figma" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,redux,express,nodejs,vscode,github,css,html,tailwind,bootstrap,reactstrap,,jest,npm,yarn,ubuntu,linux,vite,webpack,babel,git,figma,jenkins" />
 </p>
 
 <hr/>
@@ -54,9 +54,9 @@ First forget inspiration. Habit is more dependable. Habit will sustain you wheth
 
 ## Top Respositorys
   <p align="left">
-     <a href="https://github.com/amir1411/debounce-throttle-javascript"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=debounce-throttle-javascript&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="debounce-throttle-javascript"></a>
-    <a href="https://github.com/amir1411/webpack-react-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=webpack-react-project&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="webpack-react-project"></a>
-   <a href="https://github.com/amir1411/react-calendar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=react-calendar&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="react-calendar"></a>
+     <a href="https://github.com/officialgyanendra/Github-Repos-Commit-List"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=debounce-throttle-javascript&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="debounce-throttle-javascript"></a>
+    <a href="https://github.com/officialgyanendra/SSR-REACT-REDUX-THUNK"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=webpack-react-project&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="webpack-react-project"></a>
+   <a href="https://github.com/officialgyanendra/SSR-REACT_NODE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=react-calendar&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="react-calendar"></a>
   </p>
  
 <br/>
