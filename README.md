@@ -54,9 +54,8 @@ First forget inspiration. Habit is more dependable. Habit will sustain you wheth
 
 ## Top Respositorys
   <p align="left">
-     <a href="https://github.com/officialgyanendra/Github-Repos-Commit-List"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=Github-Repo-theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Github-Repos-Commit-List"></a>
-    <a href="https://github.com/officialgyanendra/SSR-REACT-REDUX-THUNK"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=officialgyanendra/SSR-REACT-REDUX-THUNK&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="SSR-REACT-REDUX-THUNK"></a>
-   <a href="https://github.com/officialgyanendra/SSR-REACT_NODE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=officialgyanendra/SSR-REACT_NODE&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="SSR-REACT_NODE"></a>
+     <a href="https://github.com/amir1411/debounce-throttle-javascript"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=debounce-throttle-javascript&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="debounce-throttle-javascript"></a>
+    <a href="https://github.com/amir1411/webpack-react-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=webpack-react-project&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="webpack-react-project"></a>
+   <a href="https://github.com/amir1411/react-calendar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=react-calendar&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="react-calendar"></a>
   </p>
- 
 <br/>
