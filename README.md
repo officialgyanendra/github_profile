@@ -33,7 +33,7 @@ First forget inspiration. Habit is more dependable. Habit will sustain you wheth
 **Languages and Tools:**  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,redux,express,nodejs,vscode,github,css,html,tailwind,bootstrap,reactstrap,jest,npm,yarn,ubuntu,linux,vite,webpack,babel,git,figma,jenkins" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,redux,express,nodejs,vscode,github,css,html,tailwind,bootstrap,jest,npm,yarn,ubuntu,linux,vite,webpack,babel,git,figma,jenkins" />
 </p>
 
 <hr/>
